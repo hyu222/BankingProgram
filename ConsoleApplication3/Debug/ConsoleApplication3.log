@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\haitian yu\onedrive\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(52): warning C4018: '<': signed/unsigned mismatch
+c:\users\haitian yu\onedrive\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(191): warning C4018: '<': signed/unsigned mismatch
+c:\users\haitian yu\onedrive\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(276): warning C4018: '<': signed/unsigned mismatch
+c:\users\haitian yu\onedrive\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(298): warning C4018: '<': signed/unsigned mismatch
+c:\users\haitian yu\onedrive\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(321): warning C4018: '<': signed/unsigned mismatch
+c:\users\haitian yu\onedrive\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(345): warning C4018: '<': signed/unsigned mismatch
+c:\users\haitian yu\onedrive\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(368): warning C4018: '<': signed/unsigned mismatch
+c:\users\haitian yu\onedrive\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(390): warning C4018: '<': signed/unsigned mismatch
+c:\users\haitian yu\onedrive\documents\visual studio 2015\projects\consoleapplication3\consoleapplication3\main.cpp(407): warning C4018: '<': signed/unsigned mismatch
+  ConsoleApplication3.vcxproj -> C:\Users\Haitian Yu\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Debug\ConsoleApplication3.exe
+  ConsoleApplication3.vcxproj -> C:\Users\Haitian Yu\OneDrive\Documents\Visual Studio 2015\Projects\ConsoleApplication3\Debug\ConsoleApplication3.pdb (Full PDB)

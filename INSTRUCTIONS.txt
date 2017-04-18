@@ -1,0 +1,4 @@
+Hello!
+
+To run this file, there is an executable file inside of the Debug folder. The application is called "ConsoleApplication3". If you run this file, the program will run. 
+In addition to this, I have created a shortcut to that executable file in the folder where this INSTRUCTION.txt file is found. It is called "Bank Application" and will also run the program. 
